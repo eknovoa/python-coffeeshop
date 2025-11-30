@@ -1,0 +1,23 @@
+shopPrices = {
+  "americano" : 3.50,
+  "cortado" : 3.75,
+  "latte": 4.25,
+  "earl grey": 2.50,
+  "black tea": 2.50,
+  "matcha latte": 4.25,
+  "hazlenut syrup": 0.25,
+  "vanilla syrup": 0.25,
+  "sugar-free vanilla syrup": 0.25,
+  "caramel syrup": 0.25,
+  "sugar-free caramel syrup": 0.25,
+  "irish cream syrup": 0.25,
+  "oat milk": 0.50,
+  "soy milk": 0.50,
+  "almond milk": 0.50,
+  "single shot espresso": 0.50,
+  "double shot espresso": 1.00,
+  "egg bites": 3.50,
+  "almond croissant": 4.25,
+  "chocolate croissant": 4.25,
+  "croissant": 3.75
+}
